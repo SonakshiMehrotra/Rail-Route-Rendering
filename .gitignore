@@ -1,0 +1,10 @@
+# Ignore all files and directories by default
+*
+
+# Allow .gitignore so version control rules are preserved
+!.gitignore
+!.nojekyll
+
+# Allow the HTML file(s)
+!*.html
+!indian_train_journey_map.html
